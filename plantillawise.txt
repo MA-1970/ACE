@@ -1,6 +1,6 @@
 {
   "name": "NOMBRE DE LISTA",
-  "author": "ComoSeHace © 2016",
+  "author": "ComoSeHace Â© 2016",
   "url": "URL DE LA LISTA",
   "groups": [
     
@@ -12,7 +12,7 @@
         {
                         "name": "Canal 1)",
                         "image": "http://max.impressa.co/wp-content/uploads/2014/01/canal1.jpg",
-                        "url": "http://www.mipsplayer.com/embedplayer/mastercito93/1/620/380",
+                        "url": "acestream://44c4b05e5a7d9643306551da394097901e73c970",
                         "referer": "http://vuelaverde.com/canales/rcn-hd.html",
                         "isHost": "true"
         },
