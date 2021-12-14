@@ -13,12 +13,7 @@
                         "name": "Canal 1)",
                         "image": "http://max.impressa.co/wp-content/uploads/2014/01/canal1.jpg",
                         "url": "acestream://44c4b05e5a7d9643306551da394097901e73c970",                        
-        },
-        {
-                        "name": "Canal 2",
-                        "image": "http://www.observadortlaxcalteca.com/portal/wp-content/uploads/2012/09/zacatelco.jpeg",
-                        "url": "acestream://97653a259e02a514772a3cb4aa8c8da7a529dc16"
-        },
+        },     
 
        ]
     },
