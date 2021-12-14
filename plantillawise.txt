@@ -12,9 +12,7 @@
         {
                         "name": "Canal 1)",
                         "image": "http://max.impressa.co/wp-content/uploads/2014/01/canal1.jpg",
-                        "url": "acestream://44c4b05e5a7d9643306551da394097901e73c970",
-                        "referer": "http://vuelaverde.com/canales/rcn-hd.html",
-                        "isHost": "true"
+                        "url": "acestream://44c4b05e5a7d9643306551da394097901e73c970",                        
         },
         {
                         "name": "Canal 2",
