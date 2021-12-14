@@ -19,7 +19,7 @@
         {
                         "name": "Canal 2",
                         "image": "http://www.observadortlaxcalteca.com/portal/wp-content/uploads/2012/09/zacatelco.jpeg",
-                        "url": "http://208.75.225.28:1935/live/regfegtrg/chunklist.m3u8"
+                        "url": "acestream://97653a259e02a514772a3cb4aa8c8da7a529dc16"
         },
 
        ]
