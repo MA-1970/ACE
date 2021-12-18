@@ -1,72 +1,32 @@
 #EXTM3U
 
 #EXTINF:0,01 - M. LaLiga
-acestream://0d748a051644910ebc152615dbd7940dce298828
+acestream://88b85b94897404b60baff85f34da53cbbe9b34c6
 
-#EXTINF:0,02 - M. LaLiga Multiaudio
-acestream://9bfe658ad7cf3ce1e1fa426f5e6fe1f4e738bad2
+#EXTINF:0,02 - M. LaLiga 1
+acestream://741bd8a7d1ed7af7ca39fd66f9886d472f5f1b0e
+
+#EXTINF:0,02 - M. LaLiga 2
+acestream://a51853e3f6f784bea1db58534698c0321ced3ef6
+
+#EXTINF:0,02 - M. LaLiga 3
+acestream://14e0a32a5d59e366a753184239d1e7b5f83efe15
 
 #EXTINF:0,03 - M. LaLiga BAR
-acestream://cdbbfb86afe540871cf09fc96f9818206a006b2a
-
-#EXTINF:0,04 - M. Liga de Campeones ⚽️
-acestream://b6c4f603c91eb8177fe65c58ca4bd98ca8fa0cac
-
-#EXTINF:0,05 - #VAMOS
-acestream://e8944382385daf533424a184e57c5ae26d375786
-
-#EXTINF:0,06 - M. Deportes
-acestream://732e6f6c2646c67844912c1c6242fc8925e3c752
-
-#EXTINF:0,07 - M. Deportes
-acestream://e6350edfb6747993554e8c83adabe03081f72f31
-
-
-
-#EXTINF:0,M. Liga de Campeoness ⚽️
-acestream://a8947499859bc8ea6152fa616e287fc136bf0a43
-
-#EXTINF:0,M. LaLiga 1
-acestream://d9d7aa46022450c621948a7c810bf3f3ad09feb9
+acestream://136c322665cc85dfbc6b17d9abc7cf3fb9533bf8
 
 #EXTINF:0,DAZN 1
-acestream://ab0a7284739c8ddac883d992385ce121bc67d5a3
+acestream://8e713867e0eb377a3172837bdc20cf1204e3e7ba
 
 #EXTINF:0,DAZN 2
-acestream://b3fc068c864910e7171abc074fe5ce107349accc
+acestream://c300ccfbc94b3eff93ec7d957493d13ac9802aa1
 
-#EXTINF:0,DAZN F1 (Fórmula 1)
-acestream://b5d0d397e6fcaf73a1ae86101b3235028f2ac2d3
+#EXTINF:0,DEPORTES
+acestream://732e6f6c2646c67844912c1c6242fc8925e3c752
 
-#EXTINF:0,M. Liga de Campeones 2 (Off)
-acestream://d094c9a1788ed45fc02713275da8a56f1c62069a
+#EXTINF:0,DEPORTES 1
+acestream://0f1e60aedba978db3c18b094dc525beaccf2806e
 
-#EXTINF:0,GOL Tv (Off)
-acestream://
 
-#EXTINF:0,Sport Tv 1
-acestream://c6a7673de5b79a90a0995f00149078b53fb3414b
-
-#EXTINF:0,Sport Tv 2
-acestream://b6dfe5b046df4c2f2eb66f072e06767653ad6dec
-
-#EXTINF:0,Sport Tv 3
-acestream://f2092e78aa7b8a6510df4ed1725f26e1e79828fb
-
-#EXTINF:0,Gol Tv (Se activa en eventos)
-acestream://94a0e015592c8c146690f3a9af6253279a52af10
-
-#EXTINF:0,TUDN (Off)
-acestream://8b2a15d44dd1cb7b2820162550fca24b59e2d33a
-
-#EXTINF:0,BeinSports ñ (Off)
-acestream://828201e501883027e8771e2c7977dca28ca53d18
-
-#EXTINF:0,M. LaLiga MultiAudio
-acestream://2a68e99b16fb28281eb6276c0aca848fc6df57cf
-
-#EXTINF:0,EuroSport 1
-acestream://457cd0b481fb965a70cec905d5ac3bc9c6283e2b
-
-#EXTINF:0,EuroSport 2
-acestream://f6a99c8826e81e0a6f0dde923deeccd2827d43b3
+#EXTINF:0,DEPORTES 2
+acestream://b3c826eb65375756d3f8a0b8cc4c20e4bc77eee4
