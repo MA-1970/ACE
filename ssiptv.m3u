@@ -1,55 +1,56 @@
 #EXTM3U
 
-#EXTINF:0,M. LaLiga ⚽️
+#EXTINF:0,01 - M. LaLiga ⚽️
 acestream://a8429491305a7216b95a132234c273f66bb6d10b
 
-#EXTINF:0,M. LaLiga ⚽️
+#EXTINF:0,01 - M. LaLiga ⚽️
 acestream://35c427b43487608d93222c68335198d466cec403
 
-#EXTINF:0,M. LaLiga 1 ⚽️
+#EXTINF:0,01 - M. LaLiga 1 ⚽️
 acestream://ecbf4155b3b1a73b10c933facced3eb47f3da727
 
-#EXTINF:0,M. LaLiga 1 ⚽️
+#EXTINF:0,01 - M. LaLiga 1 ⚽️
 acestream://5140e837c481c3d5bd1725a72a795926cd59ee59
 
-#EXTINF:0,M. LaLiga Campeones ⚽️
+#EXTINF:0,02 - M. LaLiga Campeones ⚽️
 acestream://9a8c802212ca996bd992854d07c2fd983e412620
 
-#EXTINF:0,M. LaLiga Campeones ⚽️
+#EXTINF:0,02 - M. LaLiga Campeones ⚽️
 acestream://dbe6bb15d02d0c8e7f846a5128e53f300d46b691
 
-#EXTINF:0,VAMOS
+#EXTINF:0,03 - VAMOS
 acestream://e68294cd93b60013e2fa5aeefb97de6635068c96
 
-#EXTINF:0,VAMOS
+#EXTINF:0,03 - VAMOS
 acestream://f80c2c11eb48e1079062d961233ec0a0290094d8
 
-#EXTINF:0,DAZN 1
+#EXTINF:0,04 - DAZN 1
 acestream://1942a5a48f2f7ee087767a3b7aea664398f87a06
 
-#EXTINF:0,DAZN 2
+#EXTINF:0,04 - DAZN 2
 acestream://1e451613d024cc1bcb3a9ea1376adaa4b5f5eb6a
 
-#EXTINF:0,EuroSport 1
+#EXTINF:0,04 - EuroSport 1
 acestream://457cd0b481fb965a70cec905d5ac3bc9c6283e2b
 
-#EXTINF:0,EuroSport 2
+#EXTINF:0,04 - EuroSport 2
 acestream://f6a99c8826e81e0a6f0dde923deeccd2827d43b3
 
-#EXTINF:0,05 - M. LaLiga BAR
-acestream://8b9d957fede77e69b63728bf8111336b914d8f4c
 
-#EXTINF:0,03 - M. LaLiga 2
-acestream://a51853e3f6f784bea1db58534698c0321ced3ef6
+'#EXTINF:0,01 - M. LaLiga BAR
+'acestream://8b9d957fede77e69b63728bf8111336b914d8f4c
 
-#EXTINF:0,04 - M. LaLiga 3
-acestream://14e0a32a5d59e366a753184239d1e7b5f83efe15
+'#EXTINF:0,01 - M. LaLiga 2
+'acestream://a51853e3f6f784bea1db58534698c0321ced3ef6
 
-#EXTINF:0,07 - DEPORTES
-acestream://4f40bc4b678d1b4f79ad2ed2a2b87d5644863b68
+'#EXTINF:0,01 - M. LaLiga 3
+'acestream://14e0a32a5d59e366a753184239d1e7b5f83efe15
 
-#EXTINF:0,07 - DEPORTES
-acestream://c938e345b8bcb8ca9f5666c3a25e941f518c7e3d
+'#EXTINF:0,03 - DEPORTES
+'acestream://4f40bc4b678d1b4f79ad2ed2a2b87d5644863b68
 
-#EXTINF:0,07 -  Bein Sports Ñ
-acestream://8129c0a89e0d579d9f796d714730232359a621be
+'#EXTINF:0,03 - DEPORTES
+'acestream://c938e345b8bcb8ca9f5666c3a25e941f518c7e3d
+
+'#EXTINF:0,02 -  Bein Sports Ñ
+'acestream://8129c0a89e0d579d9f796d714730232359a621be
