@@ -7,19 +7,28 @@ acestream://ce36de199b15b101c027a2661a1dbcd0dbbf4365
 acestream://35c427b43487608d93222c68335198d466cec403
 
 #EXTINF:0,02 - DEPORTES ⚽️
-acestream://4f40bc4b678d1b4f79ad2ed2a2b87d5644863b68
+acestream://deef02c19ff5c3dc9e70cb6e769b049e645cea59
 
 #EXTINF:0,02 - DEPORTES 1 ⚽️
-acestream://aba30f5844a73aeb834117e4982592806bcffe3c
+acestream://94cf32854fb1136c3356cbc080d8bf516415770a
+
+#EXTINF:0,03 - M. LaLiga BAR
+acestream://f273f39b487bd514bb90b420a48d2af44fd8a32a
 
 #EXTINF:0,03 - M. LaLiga 1 ⚽️
-acestream://ecbf4155b3b1a73b10c933facced3eb47f3da727
+acestream://fd236112669e1c73af4e2702bb862abb0677e0c9
 
-#EXTINF:0,04 - M. LaLiga Campeones ⚽️
-acestream://9a8c802212ca996bd992854d07c2fd983e412620
+#EXTINF:0,03 - M. LaLiga 2 ⚽️
+acestream://8065bcddd12924cb47974c332825a054a3848e0c
 
-#EXTINF:0,04 - M. LaLiga Campeones. ⚽️
-acestream://dbe6bb15d02d0c8e7f846a5128e53f300d46b691
+#EXTINF:0,03 - M. LaLiga 3 ⚽️
+acestream://f4b46eb5a426ec575522ce6e5ab1ad64f8af4cff
+
+'#EXTINF:0,04 - M. LaLiga Campeones ⚽️
+'acestream://9a8c802212ca996bd992854d07c2fd983e412620
+
+'#EXTINF:0,04 - M. LaLiga Campeones. ⚽️
+'acestream://dbe6bb15d02d0c8e7f846a5128e53f300d46b691
 
 #EXTINF:0,05 - VAMOS
 acestream://e68294cd93b60013e2fa5aeefb97de6635068c96
@@ -60,14 +69,6 @@ acestream://896241631bfa237db68192a39ba214088fa72591
 #EXTINF:0,09 - SPORTV 3
 acestream://478825029e2f4369c6b07991cfd9e3c514ae0c50
 
-'#EXTINF:0,03 - M. LaLiga BAR
-'acestream://8b9d957fede77e69b63728bf8111336b914d8f4c
-
-'#EXTINF:0,03 - M. LaLiga 2
-'acestream://a51853e3f6f784bea1db58534698c0321ced3ef6
-
-'#EXTINF:0,03 - M. LaLiga 3
-'acestream://14e0a32a5d59e366a753184239d1e7b5f83efe15
 
 '#EXTINF:0,06 -  Bein Sports Ñ
 'acestream://8129c0a89e0d579d9f796d714730232359a621be
