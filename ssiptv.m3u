@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0,01 - M. LaLiga ⚽️
-acestream://87bff2403eb507ed8b18f9409b32afb167b516a1
+acestream://2a68e99b16fb28281eb6276c0aca848fc6df57cf
 
 #EXTINF:0,02 - M. LaLiga BAR
 acestream://f273f39b487bd514bb90b420a48d2af44fd8a32a
@@ -31,16 +31,16 @@ acestream://f4b46eb5a426ec575522ce6e5ab1ad64f8af4cff
 acestream://31b98e69c0f3c7efb47c510da44be3765dae668b
 
 #EXTINF:0,06 - DAZN 1
-acestream://90abce8183e3591ea96824037e89a50cc31faa92
+acestream://5c0271c6bc8d29001cdecb65bb91db15540e593f
 
 #EXTINF:0,06 - DAZN 2
-acestream://46aed67cc4e6fb55866629bc555ae1f91a8dc166
+acestream://dfc7c64f1ed38e5300059af79ac573088f117ca4
 
 #EXTINF:0,06 - DAZN 3
-acestream://078f9bfdf90359da4340d1167ab069a0c10456d3
+acestream://8c972cdfa13a733da7ee8b53bd7cf72328db0c25
 
 #EXTINF:0,06 - DAZN 4
-acestream://00a3d8e3fdbcac0deb9a4ef242b384771c04457b
+acestream://553d59c09baea3b2a4439752087b6c32a0d3028e
 
 #EXTINF:0,07 - ESPN
 acestream://91bba37a7e837fdef5fbb5070016bfa1530a23e3
