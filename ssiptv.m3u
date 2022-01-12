@@ -28,7 +28,10 @@ acestream://93d2e14932a134040c0a327f36b87d2c1f8e7646
 'acestream://dbe6bb15d02d0c8e7f846a5128e53f300d46b691
 
 #EXTINF:0,05 - VAMOS
-acestream://438bb0ef0de6246cc83e7be74764881af4d75c78
+acestream://6dd6949408c42d20b0dae73cfbabd1fd2a205ef6
+
+#EXTINF:0,05 - VAMOS Multi
+acestream://87bff2403eb507ed8b18f9409b32afb167b516a1
 
 #EXTINF:0,06 - DAZN 1
 acestream://208d4c95d5cbff67fb2e536865f8115d771e1ebf
