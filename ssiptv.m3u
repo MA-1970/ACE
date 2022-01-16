@@ -30,8 +30,14 @@ acestream://93d2e14932a134040c0a327f36b87d2c1f8e7646
 #EXTINF:0,05 - VAMOS
 acestream://7afae2a5fa18c33d1c2446f5059f459b7edcf0c1
 
+#EXTINF:0,05 - VAMOS1
+acestream://0089c7b7674d59c378a81f98a39859f0b728974b
+
 #EXTINF:0,05 - VAMOS Multi
 acestream://d6058808481f5df7897e8eff69367eee68322684
+
+#EXTINF:0,05 - VAMOS Multi1
+acestream://56683c9ed8cc5dc23c9258d48d940583f0de0b2d
 
 #EXTINF:0,06 - DAZN 1
 acestream://208d4c95d5cbff67fb2e536865f8115d771e1ebf
@@ -56,6 +62,9 @@ acestream://457cd0b481fb965a70cec905d5ac3bc9c6283e2b
 
 #EXTINF:0,08 - EuroSport 2
 acestream://f6a99c8826e81e0a6f0dde923deeccd2827d43b3
+
+#EXTINF:0,09 - DIRECT TV
+acestream://1c4925e3b0cd47c5ffaa3c93fdc595b56834d7c1
 
 #EXTINF:0,09 - SPORTV 1
 acestream://8b8e52b46ee562ea8a11a84617732bffb8145c90
