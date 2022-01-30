@@ -8,7 +8,7 @@ acestream://eed4b09cc3b3c5786d96f20947a98380b019516c
 acestream://b981be5c46eb1fa891b2e7cd786f6bf7f26dd343
 
 #EXTINF:0,03 - DEPORTES ⚽️
-acestream://1f0efac5f1aa2b921edb8aeae000e32c7b050d55
+acestream://3b9dc45c7cf22d1b0dec5475a4f979fba0b5ee7b
 '#EXTINF:0,03 - DEPORTES_1 ⚽️
 'acestream://790d61febfee543d04f915170148f21e22cbe183
 '#EXTINF:0,03 - DEPORTES_2 ⚽️
@@ -42,9 +42,11 @@ acestream://8d7c75eb78f68b1a51414f44b2ab3f4710ef32a5
 'acestream://d1925399036b9eef11c2c936cfd9847f8cf5280e
 
 #EXTINF:0,08 - EuroSport 1
-acestream://8e213e9f3dd6067ba64b042b088cbecb0140159f
+acestream://6ab6cf1a8c395c2909dd62b092e1c3bd28570ebc
+#EXTINF:0,08 - EuroSport 1.
+acestream://56683c9ed8cc5dc23c9258d48d940583f0de0b2d
 #EXTINF:0,08 - EuroSport 2
-acestream://d69e0ab9a6d30c4641dc6e6a0d1bd753c1683e79
+acestream://d739b1aaa10d8b44903004eb2863005b6c3932b6
 
 '#EXTINF:0,09 - DIRECT TV
 'acestream://1c4925e3b0cd47c5ffaa3c93fdc595b56834d7c1
