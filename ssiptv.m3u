@@ -1,30 +1,22 @@
 #EXTM3U
 
 #EXTINF:0,01 - M. LaLiga ⚽️
-acestream://3edc5bb3aebadea2c51e777e0854d7ed1cb8df38
+acestream://617bb158e12ab31002be12b00d344b114d053da5
 #EXTINF:0,01 - M. LaLiga1 ⚽️
-acestream://001ab69ce66f39d32e394cad7ec9ff3c2db8cf1c
+acestream://0e1c621a1e040d5a77d4953cf8abcd761ad5cb29
 #EXTINF:0,01 - M. LaLiga2 ⚽️
-acestream://eb083935c2e69340fc218b144523f914b6ff10f3
+acestream://0a5430877ab3bf5441f9f31b0210532800f6a087
 #EXTINF:0,01 - M. LaLiga3 ⚽️
-acestream://02a4a495401d2862a970583ad5f661dad1387381
+acestream://250be7083dd0827b93a99f5112fd49d02d36aa64
 #EXTINF:0,02 - M. LaLiga BAR
-acestream://72d3df55393014476fe6bed4ed3fb94cefbb43ad
+acestream://b56c5a0212d1cb63b0bc182a5f454d167e50466d
 
 #EXTINF:0,03 - DEPORTES ⚽️
-acestream://3b9dc45c7cf22d1b0dec5475a4f979fba0b5ee7b
+acestream://55667950f4d4b094eebb38f5a63b6019ef140993
 '#EXTINF:0,03 - DEPORTES_1 ⚽️
 'acestream://790d61febfee543d04f915170148f21e22cbe183
 '#EXTINF:0,03 - DEPORTES_2 ⚽️
 'acestream://6f8e75986728caa1dd0b60c4cd9ac54923a9fa09
-
-#EXTINF:0,03 - M. LaLiga 1 ⚽️
-acestream://cb51310fa623fa7d15eea1b0432add5db66af1cf
-#EXTINF:0,03 - M. LaLiga 2 ⚽️
-acestream://950a72584bf0b442c668a3192875835f2ae7386d
-
-'#EXTINF:0,03 - M. LaLiga 3 ⚽️
-'acestream://f4b46eb5a426ec575522ce6e5ab1ad64f8af4cff
 
 '#EXTINF:0,04 - M. LaLiga Campeones ⚽️
 'acestream://264821a6abe753ba4489396126887f964062a933
@@ -33,12 +25,12 @@ acestream://950a72584bf0b442c668a3192875835f2ae7386d
 'acestream://dbe6bb15d02d0c8e7f846a5128e53f300d46b691
 
 #EXTINF:0,05 - VAMOS
-acestream://baa12b685aeca8d2a624cbc2d628101f39ebf641
+acestream://44a763299733c4675d56aca1819ec08f77484e18
 '#EXTINF:0,05 - VAMOS1
 'acestream://5a4786f46125047dde49861e3bb5cd9722314498
 
 #EXTINF:0,06 - DAZN 1
-acestream://fe62224f56d24af75640d824ee3cc7c8f2336a08
+acestream://69170a810ff4f74f48a756194a0c0ce3eb03a92f
 
 '#EXTINF:0,07 - ESPN
 'acestream://91bba37a7e837fdef5fbb5070016bfa1530a23e3
