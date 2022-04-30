@@ -1,6 +1,3 @@
-'https://github.com/MA-1970/ACE
-'https://raw.githubusercontent.com/MA-1970/ACE/main/ssiptv.m3u
-
 #EXTM3U
 
 #EXTINF:0,01 - M. LaLiga ⚽️
@@ -17,3 +14,6 @@ acestream://f273f39b487bd514bb90b420a48d2af44fd8a32a
 
 '#EXTINF:0,06 - DAZN 1
 
+'https://github.com/MA-1970/ACE
+
+'https://raw.githubusercontent.com/MA-1970/ACE/main/ssiptv.m3u
